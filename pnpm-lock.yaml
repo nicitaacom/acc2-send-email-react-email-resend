@@ -15,8 +15,8 @@ dependencies:
     specifier: ^0.0.4
     version: 0.0.4
   '@react-email/render':
-    specifier: 0.0.10
-    version: 0.0.10
+    specifier: 0.0.11-canary.0
+    version: 0.0.11-canary.0
   '@react-email/tailwind':
     specifier: 0.0.8
     version: 0.0.8
@@ -853,6 +853,16 @@ packages:
     dependencies:
       html-to-text: 9.0.5
       pretty: 2.0.0
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+    dev: false
+
+  /@react-email/render@0.0.11-canary.0:
+    resolution: {integrity: sha512-XOc/FquNKGI4ibU1924mOf/JbBwIjXQhz6En775+6Fn4PUZxwgxZou6Y9gaijq4vwL+cyoLq4cacZnUWrAq9xA==}
+    engines: {node: '>=18.0.0'}
+    dependencies:
+      html-to-text: 9.0.5
+      js-beautify: 1.14.11
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
     dev: false
