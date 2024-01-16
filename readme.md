@@ -1,6 +1,6 @@
-# What inside? <br/> <sub> production url </sub>
+# What inside? <br/>
 
-![work in progress](https://i.imgur.com/2hHq62J.jpg)
+[![video-guide](https://i.imgur.com/HNgIBnd.jpg)](https://youtu.be/zf27wHuKb2o)
 
 This is example of how you need to send email with react-email
 Check dev_readme.md to understand solution

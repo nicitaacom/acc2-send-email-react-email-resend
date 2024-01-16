@@ -19,8 +19,6 @@ export async function POST(req: Request) {
       html: html,
     })
 
-    console.log(22, "response - ", response)
-
     return NextResponse.json({ status: 200 })
   } catch (error) {
     if (error instanceof Error) {
