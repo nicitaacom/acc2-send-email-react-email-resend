@@ -1,4 +1,5 @@
-import { Head, Html, Preview, Tailwind, Body, Container, Heading, Text, Column, Link } from "@react-email/components"
+import { Head, Html, Preview, Body, Container, Heading, Text, Column, Link } from "@react-email/components"
+import { Tailwind } from "@react-email/tailwind"
 import { getURL } from "@/utils/helpers"
 
 interface CheckEmailProps {
