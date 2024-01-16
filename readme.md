@@ -2,7 +2,8 @@
 
 ![work in progress](https://i.imgur.com/2hHq62J.jpg)
 
-// TODO - Video in the future here
+This is example of how you need to send email with react-email
+Check dev_readme.md to understand solution
 <br/>
 <br/>
 <br/>
@@ -16,7 +17,7 @@
 ## or Step 1.1 - clone repository (variant 2)
 
 ```
-git clone https://github.com/Nicitaa/22_aer
+git clone https://github.com/nicitaacom/acc2-send-email-react-email-resend
 ```
 
 ## Step 1.2 - install deps
@@ -34,33 +35,3 @@ pnpm dev
 <br/>
 <br/>
 <br/>
-
-## Step 2 - setup .env
-
-### 2.1 - github
-
-![Go to settings](https://i.imgur.com/vnG4aMh.png)
-
-### 2.2 - github
-
-![Go to developer settings](https://i.imgur.com/eodZM9p.png)
-
-### 2.3 - github
-
-![OAuth Apps](https://i.imgur.com/yjeGtKv.png)
-
-### 2.4 - github
-
-![New OAuth App](https://i.imgur.com/QXuo0kE.png)
-
-### 2.5 - github
-
-![Auth url](https://i.imgur.com/MKmuYnA.png)
-
-### 2.6 - github
-
-![Copy env values](https://i.imgur.com/SIkWyeE.png)
-
-### 2.7 - github
-
-![Paste env values](https://i.imgur.com/yoevhr7.png)
